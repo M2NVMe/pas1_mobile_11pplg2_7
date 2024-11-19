@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
 
   //README FIRST!!!!
   //Sedikit rawan bug, tetapi sudah lumayan dibanding attempt sebelumnya, namun masih tetap banyak bug, klo mau ganti sesuatu baca bismilah dulu
-  //Untuk token mungkin akan di implementasikan di kemudian hari di karenakan waktu tidak cukup (90% waktu habis untuk bugfix + saya belum 100% paham dengan materi token tersebut)
+  //Untuk token mungkin akan di implementasikan di kemudian hari di karenakan waktu tidak cukup (90% waktu habis untuk bugfix (sisanya untuk features dan ui) + saya belum 100% paham dengan materi token tersebut)
 
   //////////////////////////////////////////////////////////////////////////////////////////
 
