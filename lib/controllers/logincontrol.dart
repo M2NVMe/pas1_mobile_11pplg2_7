@@ -51,7 +51,7 @@ class LoginController extends GetxController {
 
     if (loginStatus.value == "Login success") {
       Get.toNamed('/home');
-      Get.snackbar("Success", "Username and Password are correct");
+      Get.snackbar("Success", token.value);
     } else if (loginStatus.value == "Login failed") {
       Get.snackbar("Error", "Incorrect password or username");
     } else {
